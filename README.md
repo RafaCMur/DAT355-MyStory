@@ -1,4 +1,4 @@
-# DAT355---MyStory
+# DAT355-MyStory
 Project MyStory using Xtext and eclipse java.
 
 Instructions
